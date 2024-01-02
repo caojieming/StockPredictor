@@ -7,4 +7,4 @@ To use:
 3. run app.py (if you're missing any libraries, they will show up in a warning here)
 4. copy the given link and paste it into a browser
 
-This is a simple webapp created using Python Dash to primarily simulate/forecast future stock prices given their past data using a long short-term memory model.
+This is a simple webapp created using Python Dash to primarily forecast and graph future stock prices given their past data using a long short-term memory model.
